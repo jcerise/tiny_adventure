@@ -77,4 +77,5 @@ class App:
         return Vector2(dx, dy)
 
 
-App()
+if __name__ == "__main__":
+    App()
